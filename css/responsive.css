@@ -1,0 +1,322 @@
+
+
+@media (max-width:1024px) {
+    .nav-item {
+        margin-left: 11px;
+        font-size: 14px;
+    }
+    .about_section .about_img img {
+        width: 58%;
+    }.about_section p {
+        font-size: 11px;
+        
+    }.about_section p {
+        font-size: 9px;
+       
+    }.title .h1 {
+        font-size: 31px;
+    }.about_section p {
+        font-size: 10px;
+       
+    }.service_content h5 {
+       
+        font-size: 11px;
+    }.service_content p {
+        font-size: 9px;
+    }.work_gallery .btn_work {
+        font-size: 8px;
+      
+    }.title .h1 {
+        font-size: 28px;
+    }.story_content .text p {
+        
+        font-size: 10px;
+    }.story_btn {
+        
+        font-size: 9px;
+        margin-top: 21px;
+       
+    }.locations p {
+        font-size: 11px;
+        
+    }.work_gallery .btn_work {
+        font-size: 8px !important; 
+    }
+}
+
+
+@media (max-width:768px){
+
+    .nav-link {
+        text-align: center;
+    }.banner_content .contents h1 { 
+        font-size: 46px;
+    }.banner_content .contents .btn_banner {
+
+        font-size: 12px;
+
+    }.about_section .about_img img {
+        width: 65%;
+    }.space {
+        padding-top: 45%;
+    }.about_section .about_img {
+        position: absolute;
+        left: 25%;
+        top: -8%;
+    }.spaceing {
+        width: 200%;
+    }.space {
+        padding-top: 49%;
+    }.service_content .icon i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 11px;
+
+    }.service_content h5 {
+
+        font-size: 6px;
+    }.service_content p {
+        font-size: 5px;
+    }.stat_section h5 {
+        font-size: 75%;
+    }.stat_span span {
+
+        top: 44%;
+        left: 16%;
+    }.work_gallery .btn_work {
+        font-size: 4px;
+    }.work_gallery .btn_work {
+        font-size: 7px;
+    }.story_content .text p {
+        color: #858282;
+        font-size: 11px;
+    }.story_btn {
+
+        font-size: 10px;
+
+    }.life_section p {
+        font-size: 11px;
+    }.twite_Secton p {
+        font-size: 11px;
+    }.touch_section p {
+
+        font-size: 12px;
+    }.locations p {
+        font-size: 7px;
+    }.follow_section li {
+        height: 25px;
+        width: 30px;
+        line-height: 26px;
+        font-size: 9px;
+    }.service_content {
+        border: 1px solid #ededed;
+        text-align: center;
+        margin-bottom: 10px;
+        padding: 40px 13px;
+    }.service_content p {
+        font-size: 10px;
+    }.service_content h5 {
+        font-size: 12px;
+    }.service_content .icon i {
+      
+        font-size: 17px;
+    }
+}
+@media (max-width:425px){
+    .banner_content .contents h1 {
+        font-size: 25px;
+    }.banner_content .contents .btn_banner {
+        font-size: 10px;
+        padding: 6px 18px;
+    }.space {
+        padding-top: 180px;
+    }.about_section .about_img {
+        position: absolute;
+        left: 22%;
+        top: -9%;
+    }.about_section p {
+        font-size: 12px;
+    }.stat_span span {
+        opacity: 0;
+    }.work_section:hover .span1 {
+        width: 300px;
+    }.work_gallery .btn_work {
+        font-size: 9px;
+    }.story_content .text p {
+        font-size: 9px;
+    }.story_content .image {
+        width: 34%;
+    }.owl-nav .owl-next {
+        position: absolute;
+        right: 2%;
+        top: 86%;
+        transform: translateY(-50%);
+    }.owl-nav .owl-prev {
+        position: absolute;
+        left: 2%;
+        top: 86%;
+        transform: translateY(-50%);
+    }.life_section .title .h1 {
+
+        margin-top: 30px;
+    }.life_section p {
+        font-size: 10px;
+    }.owl-nav .owl-next {
+        position: absolute;
+        right: -17%;
+        top: 50%;
+        transform: translateY(-50%);
+    }.owl-nav .owl-prev {
+        position: absolute;
+        left: -17%;
+        top: 50%;
+        transform: translateY(-50%);
+    }.client_section:hover .span1 {
+        width: 211px;
+    }.story_section:hover .span1 {
+        width: 200px;
+        transition: 1s all ease-in-out;
+    }.story_section:hover .span1 {
+        width: 200px;
+        transition: 1s all ease-in-out;
+    }.about_section:hover .span1 {
+        width: 200px;
+        transition: 1s all ease-in-out;
+    }
+    .service_Section:hover .span1 {
+        width: 200px;
+        transition: 1s all ease-in-out;
+    }.stat_section:hover .span1{
+        width: 200px;
+        transition: 1s all ease-in-out;
+        }
+        .work_section:hover .span1{
+            width: 200px;
+            transition: 1s all ease-in-out;
+            }
+            .story_section:hover .span1{
+                width: 200px;
+                transition: 1s all ease-in-out;
+                }.life_section:hover .span1{
+                    width: 200px;
+                    transition: 1s all ease-in-out;
+                    }.client_section:hover .span1{
+                        width: 200px;
+                        transition: 1s all ease-in-out;
+                        }.twite_Secton:hover .span1{
+                            width: 200px;
+                            transition: 1s all ease-in-out;
+                            }.touch_section:hover .span1{
+                                width: 200px;
+                                transition: 1s all ease-in-out;
+                                }.follow_section:hover .span1{
+                                    width: 200px !important;
+                                    transition: 1s all ease-in-out;
+                                    }.touch_section p {
+                                       
+                                        padding: 0;
+                                        padding-bottom: 20px;
+                                 
+                                    }.locations {
+                                        background-color: #f0a939;
+                                        padding: 20px;
+                                        position: absolute;
+                                        top: 26%;
+                                        right: 11%;
+                                        opacity: .8;
+                                        width: 49%;
+                                    }.locations p {
+                                        font-size: 11px;
+                                        color: #fff;
+                                        font-family: 'Times New Roman', Times, serif;
+                                    }.touch_title .h1 {
+                                        color: #373737;
+                                        font-size: 25px;
+                                        font-weight: 600 !important;
+                                    }
+                                    .owl-nav .owl-next {
+                                        position: absolute;
+                                        right: 4%;
+                                        top: 91%;
+                                        transform: translateY(-50%);
+                                    }.owl-nav .owl-prev {
+                                        position: absolute;
+                                        left: 4%;
+                                        top: 91%;
+                                        transform: translateY(-50%);
+                                    }label {
+                                        font-size: 14px;
+                                    }.about_section .about_img img {
+                                        width: 70%;
+                                    }
+}
+
+@media (max-width:375px) {
+    .about_section .about_img img {
+        width: 75%;
+    }
+    .service_content {
+        border: 1px solid #ededed;
+        text-align: center;
+        margin-bottom: 10px;
+        padding: 40px 25px;
+    }.work_gallery .btn_work {
+        font-size: 7px !important;
+    }.title .h1 {
+        font-size: 23px;
+    }.twite_Secton p {
+        font-size: 8px;
+    }label {
+        font-size: 14px;
+    }.title .h1 {
+        font-size: 19px;
+    }footer p {
+        color: #585757;
+        font-size: 9px;
+        font-weight: 600;
+        margin: auto;
+        text-align: center;
+    }
+}
+@media (max-width:320px){
+    label {
+        font-size: 11px;
+    }.touch_section p {
+        font-size: 9px;
+    }.clien_Content .top p {
+        color: #838282;
+        font-size: 8px;
+    }.clien_Content .top h5 {
+        color: #696868;
+        font-size: 9px;
+        font-weight: 800;
+    }.clien_Content .bottom p {
+        color: #83827F;
+        font-size: 9px;
+    }.clien_Content .bottom h5 {
+        color: #f49c12;
+        font-size: 10px;
+    }.clien_Content .top p {
+        color: #838282;
+        font-size: 9px;
+    }.clien_Content .top p {
+        color: #838282;
+        font-size: 9px;
+    }.work_gallery .btn_work {
+        font-size: 5px !important;
+    }.space {
+        padding-top: 126px;
+    }.about_section .about_img img {
+        width: 71%;
+    }.banner_content .contents h1 {
+        font-size: 20px;
+    }.banner_content .contents .btn_banner {
+        font-size: 8px;
+        padding: 6px 15px;
+    }.search_side input {
+        border: none;
+        padding: 5px 1px 5px 5px;
+    }
+
+}
